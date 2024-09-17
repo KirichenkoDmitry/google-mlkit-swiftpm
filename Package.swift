@@ -73,7 +73,7 @@ let package = Package(
       name: "GoogleToolboxForMac",
       url:
         "https://github.com/KirichenkoDmitry/google-mlkit-swiftpm/releases/download/6.1.0/GoogleToolboxForMac.xcframework.zip",
-      checksum: "20e685c6a07c01e79c20e51e8ac7efe40c3b931f35c51d12bee72234e825be3d"),
+      checksum: "5a4433a64a431ed1a9586572b74f93ae194479597f015a2c18a3adfe21f34490"),
     .binaryTarget(
       name: "GoogleUtilitiesComponents",
       url:
